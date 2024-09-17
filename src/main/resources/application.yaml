@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: currencyconverter
+
+nbp:
+  client:
+    base-url: "https://api.nbp.pl/api"
